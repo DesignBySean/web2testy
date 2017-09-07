@@ -11,3 +11,6 @@ document.write(sentence_a)
 
 sentence_b = "how many "+adj_list[2]+" chicken are there?"
 document.write(sentence_b)
+
+sentence_b = "She thought about joining the "+adj_list[2]+"."
+document.write(sentence_b)
