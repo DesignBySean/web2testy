@@ -9,10 +9,10 @@ x = adj_list[1]
 sentence_a = "She loved the "+x+" taste of apples and loved the "+noun_list[3]+"."
 document.write(sentence_a)
 
-sentence_b = "how many "+adj_list[2]+" chicken are there?"
+sentence_b = " How many "+adj_list[2]+" chicken are there?"
 document.write(sentence_b)
 
-sentence_c = "She thought about joining the "+adj_list[2]+"."
+sentence_c = " She thought about joining the "+noun_list[2]+"."
 document.write(sentence_c)
 
 alert('AWESOME')
