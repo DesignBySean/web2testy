@@ -7,8 +7,8 @@ noun_list = ["army", "navy", "airforce", "marines"]
 (4) ["army", "navy", "airforce", "marines"]
 "
 x = adj_list[1]
-"Lemon-flavored"
-"She loved the "+x+" taste of apples and loved the "+noun_list[3]+"."
-"She loved the Lemon-flavored taste of apples and loved the marines."
+
+sentence_a = "She loved the "+x+" taste of apples and loved the "+noun_list[3]+"."
+document.write(sentence_a)
 "how many "+adj_list[2]+" chicken are there?"
 "how many Spicy chicken are there?"
