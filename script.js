@@ -1,7 +1,7 @@
 console.log('hello sean!')
 document.write('<h1> Hi!</h1>')
 
-adj_list = ["Bitter","Lemon-flavored","Spicy","Bland","Minty","Sweet","Delicious","Pickled","Tangy","Fruity","Salty"]
+adj_list = ["bitter","lemon-flavored","spicy","bland","minty","sweet","delicious","pickled","tangy","fruity","salty"]
 noun_list = ["army", "navy", "airforce", "marines"]
 
 x = adj_list[1]
