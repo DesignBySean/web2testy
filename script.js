@@ -17,4 +17,4 @@ sentence_c = " Even though she loves the "+noun+" she thought about joining the 
 document.write(sentence_c)
 
 alert('AWESOME')
-prompt('Do you love '+adj_list[5]+' products?')
+prompt('Do you love '+adj+' food?')
